@@ -1,4 +1,4 @@
-# time-to-words
+## time-to-words
 
 # Pair Programming exercise
 
